@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Snehangshu Patra</h1>
-<h3 align="center">A passionate Software Developer from India🇮🇳🚀 About Me 🎓 Currently studying Electronics & Communication Engineering at Budge Budge Institute of Technology (BBIT) 🐍 Passionate Python Developer</h3>
+<h3 align="center">A passionate Software Developer from India🇮🇳 🎓 Currently studying Electronics & Communication Engineering at Budge Budge Institute of Technology (BBIT) 🐍 Passionate Python Developer</h3>
 
 - 🔭 I’m currently working on **Personal project,Improving DSA skills**
 
