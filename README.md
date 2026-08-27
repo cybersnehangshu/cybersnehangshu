@@ -1,10 +1,7 @@
-Hi there, I'm Snehangshu Patra👋
-
-💻 Aspiring Software Engineer with a passion for building real-world solutions
-🐍 Python Developer who enjoys writing clean, efficient code
-🤖 AI/ML Enthusiast, exploring machine learning and deep learning concepts
-🎓 Student of Electronics & Communication Engineering at Budge Budge Institute of Technology (BBIT)
-🌱 Currently learning and building projects at the intersection of ECE, Software Development, and AI/ML
-💡 Open to collaborating on Python, AI/ML, and software development projects
-
-📫 Reach me at: snehangshupatra0@gmail.com
+🚀 About Me
+🎓 Currently studying Electronics & Communication Engineering at Budge Budge Institute of Technology (BBIT)
+🐍 Passionate Python Developer, focused on writing clean and efficient code
+🤖 Exploring AI/ML — building projects and strengthening fundamentals in machine learning
+🌱 Currently learning Data Structures & Algorithms and modern software development practices
+💡 Interested in collaborating on Python, AI/ML, and open-source projects
+📫 Reach me at: [your.email@example.com] | [LinkedIn Profile]
